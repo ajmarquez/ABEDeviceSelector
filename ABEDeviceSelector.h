@@ -1,7 +1,7 @@
 //
 //  ABEDeviceSelector.h
 //  An easy way to select your favorite Apple device!
-//  For sure!
+//  
 //
 //  Created by Abelardo Marquez on 8/14/15.
 //
